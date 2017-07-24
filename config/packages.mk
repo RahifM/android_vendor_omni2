@@ -13,11 +13,7 @@ PRODUCT_PACKAGES += \
     Chromium \
     OmniJaws \
     OmniStyle \
-    QuickSearchBox \
     OmniClockOSS \
-    MusicFX \
-    audio_effects.conf \
-    libcyanogen-dsp \
     Phonograph \
     Turbo
 
